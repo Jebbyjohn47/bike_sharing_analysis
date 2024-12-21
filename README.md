@@ -20,7 +20,7 @@ The project aims to:
 
 ## Dataset
 
-The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.com/) and includes the following key features:
+The dataset used in this analysis is about bikes being rented and includes the following key features:
 - `datetime`: Timestamp of the bike rental.
 - `season`: Season of the year (1: winter, 2: spring, 3: summer, 4: fall).
 - `holiday`: Whether the day is a holiday (0: no, 1: yes).
